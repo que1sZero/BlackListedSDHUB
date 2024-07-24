@@ -1,0 +1,5 @@
+local blacklist = {
+    "blacklisted_hwid_1",
+    "blacklisted_hwid_2",
+    "blacklisted_hwid_3",
+}
